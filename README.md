@@ -1,9 +1,17 @@
 - 👋 Hi, I’m @NhanDoan1203
-- 👀 I’m interested in coding and finding some new things about tech companies ,and computer languages
-- 🌱 I’m currently learning python, R and Tableau
-- 💞️ I’m looking to collaborate on the speech-recognition and face-recognition
-- 💞️ I really like to work with data and statistic
-- 📫 I have the facebook and instagram account if you want to find me, we can talk about this
+👨🏻‍💻  About Me
+  ● 👀 I'm passionate about coding and eager to explore the world of tech companies and computer languages.
+  ● 🎓 Studying Informatics and Operation and Information management at University of Massachusetts Amherst.
+  ● 🌱 Focusing on learning multiple programming language and Data Science knowledge to enhance my skills.
+  ● ✍️ Pursuing Business Intelligence, Stock and Statistic.
+
+🛠  Tech Stack
+  ● 💻 Python, Java and R programming
+  ● 🛢  MySQL
+  ● ⚙️ R studio
+  ● 🔧 Visual Studio Code
+📫 Connect with Me
+Website Facebook Instagram LinkedIn Email
 Fb account: https://www.facebook.com/nhandoan.1203/
 Instagram account: https://www.instagram.com/bin.nes/
 
