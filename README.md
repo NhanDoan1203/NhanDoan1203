@@ -1,3 +1,7 @@
+<a target="_blank" align="center">
+  <img align="right" top="500" height="270" width="400" alt="GIF" src="Sophie%20Nguyen%20-%20CatCat.gif">
+</a>
+
 👋 Hi, I’m Nhan Doan
 
 👨🏻‍💻  About Me
