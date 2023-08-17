@@ -61,7 +61,7 @@
 <hr>
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
-<a href="mailto:nsdoan@umass.edu" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" height="30" width="80" /></a>
+<a href="mailto:doansynhan1203@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" height="30" width="80" /></a>
 <a href="https://www.linkedin.com/in/nhandoan1203/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" height="30" width="80" /></a>
 <a href="https://www.instagram.com/bin.nes/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" height="30" width="80" /</a>
 <a href="https://www.facebook.com/nhandoan.1203/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="" height="30" width="80" /></a>
