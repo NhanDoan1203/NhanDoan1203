@@ -35,7 +35,7 @@
 
 <br>
 
-<span><img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel logo" title="Excel" heigh="25"/></span>
+<span><img src = "https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Excel logo" title="Excel" heigh="25"/></span>
 &nbsp;
 <span><img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" heigh="25"/></span>
 &nbsp;
