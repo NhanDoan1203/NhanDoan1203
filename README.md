@@ -8,7 +8,7 @@
 ## 👨🏻‍💻 About Me
 
 <p> 🤔   Interesting in new technologies and analyzing to find accurate solutions to develop a business.</p>
-<p> 🎓   Persuing a degree in Informatics and about to minor in Business at Umass Amherst.</p>
+<p> 🎓   Persuing a degree in Informatics and a minor degree in Business at Umass Amherst.</p>
 <p> 💼   Data analysis Intern at the University of Economics in Viet Nam.</p>
 <p> 🌱   Learning more about AI, Machine learning and it applications.</p>
 
