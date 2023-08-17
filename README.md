@@ -3,42 +3,62 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Nhan+Doan+🌻)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌻)](https://git.io/typing-svg)
 
-👨🏻‍💻  About Me
-
-    ● 👀 I'm passionate about coding and eager to explore the world of tech companies and computer languages.
-  
-    ● 🎓 Studying Informatics and Operation and Information management at University of Massachusetts Amherst.
-    
-    ● 🌱 Focusing on learning multiple programming language and Data Science knowledge to enhance my skills.
-  
-    ● ✍️ Pursuing Business Intelligence, Stock and Statistic.
 <hr>
 
-## 💻🛠  Tech Stack
+## 👨🏻‍💻 About Me
 
-### <u> Languages: </u>
+<p> 🤔   Interesting in new technologies and analyzing to find accurate solutions to develop a business.</p>
+<p> 🎓   Studying Informatics and about to minor in Business at Umass Amherst.</p>
+<p> 💼   Data analysis Intern at the University of Economics in Viet Nam.</p>
+<p> 🌱   Learning more about AI, Machine learning and it applications.</p>
+
+<hr>
+
+##  🛠  Tech Stack
+
+### <u> 👩‍💻Languages: </u>
 
 <br>
-<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="25"/>
-</span>&nbsp;
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/>
-</span>&nbsp;
-<img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R logo"  title="R" height="25"/>
-</span>&nbsp;
-<img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy logo"  title="Numpy" height="25"/>
-</span>&nbsp;
-<img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas logo"  title="Pandas" height="25"/>
-</span>&nbsp;
 
+<span><img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="25"/></span>
+&nbsp;
+<span><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/></span>
+&nbsp;
+<span><img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R logo"  title="R" height="25"/></span>
+&nbsp;
+<span><img src = "https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy logo"  title="Numpy" height="25"/></span>
+&nbsp;
+<span><img src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas logo"  title="Pandas" height="25"/></span>
+&nbsp;
 
-    ● 💻 Python, Java and R programming
-    
-    ● 🛢  MySQL
-    
-    ● ⚙️ R studio
-    
-    ● 🔧 Visual Studio Code
+### <u> ⚡Database and Operating System: </u>
 
+<br>
+
+<span><img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel logo" title="Excel" heigh="25"/></span>
+&nbsp;
+<span><img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" heigh="25"/></span>
+&nbsp;
+<span><img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite logo" title="SQLite" heigh="25"/></span>
+&nbsp;
+<span><img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Window logo" title="Window" heigh="25"/></span>
+&nbsp;
+
+### <u> 💻Tools: </u>
+<span><img src = "https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt="Rstudio logo" title="Rstudio" heigh="25"/></span>
+&nbsp;
+<span><img src = "https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sub logo" title="Sublime" heigh="25"/></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="Git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
+&nbsp;
+
+<br>
+
+<hr>
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
 <a href="your link" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" height="30" width="80" /></a>
