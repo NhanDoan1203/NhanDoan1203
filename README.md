@@ -1,6 +1,7 @@
 [![MasterHead](https://gifdb.com/images/high/peaky-blinders-thomas-shelby-classic-cigarette-1ly427f2wvta2u29.gif)](https://github.com/NhanDoan1203)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Nhan+Doan)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌻)](https://git.io/typing-svg)
 
 <hr>
